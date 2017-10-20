@@ -55,6 +55,10 @@ Just one principle:
 
 So we can do pruning using this principle.
 
+###### Hash Method
+
+Used to quickly count the support of items
+
 #### FP-Growth
 
 1. Order the supports of frequent items, and order items in transactions. Record the items (if on conditional FP-tree, also record the condition part).
